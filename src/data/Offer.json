@@ -1,0 +1,82 @@
+[
+  {
+    "id": 90001,
+    "name": "COFFEE",
+    "description": "Enjoy our signature hot or iced coffee, freshly brewed and customizable to your taste. A perfect start to your day or a midday treat.",
+    "oldPrice": 4.5,
+    "newPrice": 6.0,
+    "image": "/img/offer/offer-1.png",
+    "rating": 4.5,
+    "category": ["Drinks", "Coffee"]
+  },
+  {
+    "id": 90002,
+    "name": "DONUTS",
+    "description": "Indulge in our classic, freshly-made donuts. Each one is a fluffy, delicious delight, topped with a variety of glazes and sprinkles to satisfy your sweet tooth. A perfect companion for your coffee.",
+    "oldPrice": 6.5,
+    "newPrice": 8.0,
+    "image": "/img/offer/offer-2.png",
+    "rating": 4.8,
+    "category": ["Food", "Donuts"]
+  },
+  {
+    "id": 90003,
+    "name": "TEA",
+    "description": "Sip on a cup of our premium, aromatic tea, available hot or iced. Choose from a selection of flavors to find your perfect blend, offering a refreshing and soothing experience with every drop.",
+    "oldPrice": 5.5,
+    "newPrice": 7.0,
+    "image": "/img/offer/offer-3.png",
+    "rating": 4.2,
+    "category": ["Drinks", "Tea"]
+  },
+  {
+    "id": 90004,
+    "name": "COFFEE AND COLD BREW",
+    "description": "A small, medium or large hot or iced coffee or Cold Brew.",
+    "oldPrice": 6.0,
+    "newPrice": 7.5,
+    "image": "/img/offer/offer-4.png",
+    "rating": 4.7,
+    "category": ["Drinks", "Coffee"]
+  },
+  {
+    "id": 90005,
+    "name": "BITES & BAGELS",
+    "description": "A Wake-Up Wrap® with or without meat, or a bagel with spread.",
+    "oldPrice": 7.0,
+    "newPrice": 8.5,
+    "image": "/img/offer/offer-5.png",
+    "rating": 4.0,
+    "category": ["Food", "Breakfast"]
+  },
+  {
+    "id": 90006,
+    "name": "NON-COFFEE DRINKS",
+    "description": "A small, medium or large Dunkin' Refresher, Hot Chocolate or hot or iced Chai Latte or Matcha Latte.",
+    "oldPrice": 8.0,
+    "newPrice": 9.5,
+    "image": "/img/offer/offer-6.png",
+    "rating": 4.3,
+    "category": ["Drinks", "Specialty"]
+  },
+  {
+    "id": 90007,
+    "name": "BREAKFAST SANDWICHES",
+    "description": "A breakfast sandwich with your choice of meat, egg, cheese and bread.",
+    "oldPrice": 6.5,
+    "newPrice": 8.0,
+    "image": "/img/offer/offer-7.png",
+    "rating": 4.6,
+    "category": ["Food", "Sandwiches"]
+  },
+  {
+    "id": 90008,
+    "name": "ESPRESSO AND FROZEN DRINKS",
+    "description": "Any size frozen drink or hot or iced espresso drink.",
+    "oldPrice": 7.0,
+    "newPrice": 8.5,
+    "image": "/img/offer/offer-8.png",
+    "rating": 4.9,
+    "category": ["Drinks", "Espresso", "Frozen"]
+  }
+]

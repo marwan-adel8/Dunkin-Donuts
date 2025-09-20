@@ -1,0 +1,386 @@
+[
+    {
+      "id": 1,
+      "name": "Coffe",
+      "title": "AMERICA’S FAVORITE CUP",
+      "description": "Our famous Hot Coffee is made from high-quality Arabica beans and is freshly ground and brewed continually throughout the day.",
+      "price": 3.99,
+      "rating": 4.5,
+      "image": "img/espresso-coffee/item-1.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 2,
+      "name": "Iced Coffe",
+      "title": "THE PERFECT PICK-ME-UP",
+      "description": "Freshly brewed and full of flavor, our Iced Coffee gets you energized and ready to go.",
+      "price": 4.25,
+      "rating": 4.4,
+      "image": "img/espresso-coffee/item-2.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 3,
+      "name": "cold brew",
+      "title": "BREWED SLOW. SERVED FAST.",
+      "description": "Arabica beans steeped overnight in cold water for 12 hours to slowly extract the flavor, making it an ultra-smooth, full bodied cold coffee with a sweeter, rich chocolatey taste. Craft-brewed in small batches. Limited quantities available daily.",
+      "price": 4.0,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-3.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 4,
+      "name": "AMERICANO",
+      "title": "AWESOME AMERICANOS",
+      "description": "Our Hot Americano puts the oh! in Americano by combining two shots of Dunkin’s 100% Rainforest Alliance Certified™ espresso with hot water creating a rich, robust drink.",
+      "price": 3.75,
+      "rating": 4.2,
+      "image": "img/espresso-coffee/item-4.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 5,
+      "name": "ICED AMERICANO",
+      "title": "AWESOME AMERICANOS",
+      "description": "Our Iced Americano blends two shots of Dunkin' 100% Rainforest Alliance Certified™ espresso richness with water for a refreshing, espresso-forward cup of woah!",
+      "price": 3.75,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-5.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 6,
+      "name": "LATTE",
+      "title": "LEGIT LATTES",
+      "description": "Made with steamed, frothy milk, blended with our rich, freshly ground and brewed espresso. Our Latte has a layer of foam and is the perfect balance of creamy and smooth to get you goin'.",
+      "price": 4.75,
+      "rating": 4.4,
+      "image": "img/espresso-coffee/item-6.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 7,
+      "name": "ICED LATTE",
+      "title": "LEGIT LATTES",
+      "description": "Made with milk blended with our rich, freshly ground and brewed espresso, our Iced Latte has the perfect balance of cool and creamy to get you goin'.",
+      "price": 4.5,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-7.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 8,
+      "name": "SIGNATURE LATTE",
+      "title": "SIP SIP HOORAY!",
+      "description": "Made with warm, frothy milk and blended with rich espresso, our handcrafted Signature Lattes add a delicious twist with whipped cream, drizzle and toppings.",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/espresso-coffee/item-8.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 9,
+      "name": "ICED SIGNATURE LATTE",
+      "title": "SIP SIP HOORAY!",
+      "description": "Made with rich espresso & milk, our handcrafted Signature Lattes add a delicious twist with whipped cream, drizzle and toppings",
+      "price": 4.25,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-9.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 10,
+      "name": "MACCHIATO",
+      "title": "MIGHTY MACCHIATOS",
+      "description": "Did someone say layers on layers of hand-crafted deliciousness? Made with creamy milk and topped with two shots of espresso, our Macchiato is just what you're looking for.",
+      "price": 4.75,
+      "rating": 4.4,
+      "image": "img/espresso-coffee/item-10.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 11,
+      "name": "ICED MACCHIATO",
+      "title": "MIGHTY MACCHIATOS",
+      "description": "Looking for layers on layers of handcrafted deliciousness? Made with layers of creamy milk and two shots of espresso then served over ice, our Iced Macchiato is just what you need.",
+      "price": 4.5,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-11.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 12,
+      "name": "CAPPUCCINO",
+      "title": "CLASSIC CAPPUCCINOS",
+      "description": "Our Cappuccino is a warm cup of blended espresso and frothy, bold deliciousness. Made with high-quality espresso beans, freshly ground, freshly brewed and then blended with steamed milk. This beverage has a thick layer of creamy foam for your delight.",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/espresso-coffee/item-12.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 13,
+      "name": "ICED CAPPUCCINO",
+      "title": "CLASSIC CAPPUCCINOS",
+      "description": "Our Iced Cappuccino is brewed with freshly ground espresso beans and then blended with milk served over ice for a refreshing cup of frothy and bold deliciousness.",
+      "price": 4.5,
+      "rating": 4.3,
+      "image": "img/espresso-coffee/item-13.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 14,
+      "name": "ESPRESSO",
+      "title": "ESPRESSOMG",
+      "description": "Not every bean has what it takes to be a Dunkin' espresso bean. We only roast and grind the finest, high-quality Arabica beans. Every shot of espresso is brewed fresh for every beverage a guest orders. Every sip is balanced with sweet caramel and bittersweet chocolate for a smooth and bold flavor.",
+      "price": 3.75,
+      "rating": 4.2,
+      "image": "img/espresso-coffee/item-14.png",
+      "category": ["ESPRESSO & COFFEE"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 15,
+      "name": "TEA",
+      "title": "PREMIUM HOT TEAS AND HERBAL INFUSIONS",
+      "description": "Pyramid style tea sachets containing high-quality loose leaf teas and a unique blend of herbs to offer guests a delicious cup every time.",
+      "price": 3.99,
+      "rating": 4.3,
+      "image": "img/tea-and-more/item-1.png",
+      "category": ["TEAS & MORE"],
+      "flavor": [
+        "None",
+        "Bold Breakfast Black Tea",
+        "Chamomile Fields Herbal Infusion",
+        "Cool Mint Herbal Infusion",
+        "Decaf Breakfast Black Tea",
+        "Hibiscus Kiss Herbal Infusion",
+        "Harmony Leaf Green Tea"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "ICED TEA",
+      "title": "ALWAYS DELICIOUS. ALWAYS FRESHLY BREWED.",
+      "description": "Our refreshing, revitalizing teas are freshly brewed in store each day and served over ice.",
+      "price": 3.5,
+      "rating": 4.1,
+      "image": "img/tea-and-more/item-2.png",
+      "category": ["TEAS & MORE"],
+      "flavor": [
+        "None",
+        "Bold Breakfast Black Tea",
+        "Chamomile Fields Herbal Infusion",
+        "Cool Mint Herbal Infusion",
+        "Decaf Breakfast Black Tea",
+        "Hibiscus Kiss Herbal Infusion",
+        "Harmony Leaf Green Tea"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Sausage, Egg & Cheese",
+      "title": "Sausage, Egg & Cheese",
+      "description": "A tasty sandwich stacked with egg, American cheese and irresistible sausage.",
+      "price": 4.5,
+      "rating": 4.5,
+      "image": "img/sandawish-and-more/item-1.png",
+      "category": ["SANDWICHES & MORE"],
+      "flavor": ["'Bread' Bagel", "'Bread' English Muffin"]
+    },
+    {
+      "id": 26,
+      "name": "BACON, EGG & CHEESE",
+      "title": "A BREAKFAST CLASSIC",
+      "description": "A breakfast classic featuring cherrywood smoked bacon, egg and American cheese.",
+      "price": 5.0,
+      "rating": 4.4,
+      "image": "img/sandawish-and-more/item-2.png",
+      "category": ["SANDWICHES & MORE"],
+      "flavor": ["'Bread' Bagel", "'Bread' English Muffin"]
+    },
+    {
+      "id": 27,
+      "name": "Turkey Sausage, Egg & Cheese",
+      "title": "A TWIST ON A CLASSIC BREAKFAST FAVORITE",
+      "description": "Delicious turkey sausage, egg and American cheese.",
+      "price": 4.0,
+      "rating": 4.3,
+      "image": "img/sandawish-and-more/item-3.png",
+      "category": ["SANDWICHES & MORE"],
+      "flavor": ["None"]
+    },
+    {
+      "id": 28,
+      "name": "Egg & Cheese",
+      "title": "SIMPLE MEETS SATISFYING",
+      "description": "Our Egg and Cheese breakfast sandwich is as simple as it gets, making it the perfect way to get running.",
+      "price": 5.5,
+      "rating": 4.1,
+      "image": "img/sandawish-and-more/item-4.png",
+      "category": ["SANDWICHES & MORE"],
+      "flavor": ["'Bread' Bagel", "'Bread' English Muffin"]
+    },
+    {
+      "id": 29,
+      "name": "Sourdough Breakfast Sandwich",
+      "title": "A BREAKFAST CLASSIC",
+      "description": "Two eggs, five half slices of bacon and white cheddar on two pieces of sourdough toast.",
+      "price": 5.5,
+      "rating": 4.1,
+      "image": "img/sandawish-and-more/item-5.png",
+      "category": ["SANDWICHES & MORE"],
+      "flavor": ["'Bread' Bagel", "'Bread' English Muffin"]
+    },
+    {
+      "id": 30,
+      "name": "Wake-Up Wrap®",
+      "title": "UNWRAP PERFECTION",
+      "description": "Our delicious Wake-Up Wrap® Sandwiches are made-to-order with your choice of protein, egg and cheese. The perfect portion to help start your day or fuel your afternoon.",
+      "price": 2.5,
+      "rating": 4.3,
+      "image": "img/sandawish-and-more/item-6.png",
+      "category": ["SNACKS & WRAPS", "SANDWICHES & MORE"],
+      "flavor": ["Without Meat", "Bacon", "Sausage", "Turkey Sausage"]
+    },
+    {
+      "id": 31,
+      "name": "Hash Browns",
+      "title": "HEAVEN TOASTED",
+      "description": "Our hash browns are lightly seasoned and golden brown for maximum goodness. Delicious on their own or paired with a sandwich.",
+      "price": 6.0,
+      "rating": 4.3,
+      "image": "img/snacks/item-2.png",
+      "category": ["SNACKS & WRAPS"],
+      "flavor": ["None"]
+    },
+    {
+      "id": 32,
+      "name": "Stuffed Bagel Minis",
+      "title": "THE PERFECT SNACK",
+      "description": "Try our Plain and Everything Stuffed Bagel Minis filled with cream cheese, served warm.",
+      "price": 2.5,
+      "rating": 4.2,
+      "image": "img/snacks/item-3.png",
+      "category": ["SNACKS & WRAPS"],
+      "flavor": ["None"]
+    },
+    {
+      "id": 33,
+      "name": "Snackin' Bacon",
+      "title": "EVERYONE'S BETTER WITH BACON",
+      "description": "Enjoy crispy seasoned bacon.",
+      "price": 6.0,
+      "rating": 4.3,
+      "image": "img/snacks/item-4.png",
+      "category": ["SNACKS & WRAPS"],
+      "flavor": ["None", "Caramel Swirl", "French Vanilla Swirl", "Mocha Swirl"]
+    },
+    {
+      "id": 34,
+      "name": "Bagels with Cream Cheese Spread",
+      "title": "A DELICIOUS WAY TO START YOUR DAY",
+      "description": "A delicious bagel with your favorite cream cheese spread. Enjoy with your favorite morning coffee!",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/bagels-and-muffins/item-1.png",
+      "category": ["BAGELS & MUFFINS"],
+      "flavor": [
+        "Cinnamon Raisin Bagel",
+        "Everything Bagel",
+        "Multigrain Bagel",
+        "Plain Bagel",
+        "Sesame Seed Bagel",
+        "White Cheddar Bagel Twist"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Muffins",
+      "title": "A GO-TO CLASSIC",
+      "description": "Enjoy a delicious muffin with your favorite coffee from Dunkin'.",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/bagels-and-muffins/item-2.png",
+      "category": ["BAGELS & MUFFINS"],
+      "flavor": ["Blueberry Muffin", "Chocolate Chip Muffin", "Corn Muffin"]
+    },
+    {
+      "id": 36,
+      "name": "CROISSANT",
+      "title": "FRESHLY BAKED DELICIOUS",
+      "description": "A delicious way to start your day. Our warm, freshly baked croissant is the perfect pair to a freshly brewed Hot or Iced Coffee.",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/bagels-and-muffins/item-3.png",
+      "category": ["BAGELS & MUFFINS"],
+      "flavor": ["None"]
+    },
+    {
+      "id": 37,
+      "name": "ENGLISH MUFFIN",
+      "title": "FRESHLY BAKED DELICIOUS",
+      "description": "Enjoy a classic morning favorite. Our oven-toasted english muffin goes great with your favorite spread.",
+      "price": 4.5,
+      "rating": 4.2,
+      "image": "img/bagels-and-muffins/item-4.png",
+      "category": ["BAGELS & MUFFINS"],
+      "flavor": ["None"]
+    },
+    {
+      "id": 38,
+      "name": "Donuts",
+      "title": "MAKING PEOPLE SMILE SINCE 1950",
+      "description": "Our delicious donuts come in a variety of flavors, so there’s a favorite for everyone.",
+      "price": 5.0,
+      "rating": 4.2,
+      "image": "img/dounts/item-1.png",
+      "category": ["Donuts"],
+      "flavor": [
+        "Strawberry Frosted with Halloween Sprinkles Donut",
+        "Vanilla Frosted with Halloween Sprinkles Donut",
+        "Chocolate Frosted with Halloween Sprinkles Donut",
+        "Spider Donut",
+        "Pumpkin Donut",
+        "Poe's Purple Donut",
+        "Raven's Flock Donut"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "MUNCHKINS® Donut Hole Treats",
+      "title": "SHAREABLE, SNACKABLE PERFECTION",
+      "description": "Everyone loves our MUNCHKINS® Donut Hole Treats. They’re made in a variety of delicious flavors, so it’s easy to try them all.",
+      "price": 5.0,
+      "rating": 4.2,
+      "image": "img/dounts/item-2.png",
+      "category": ["Donuts"],
+      "flavor": [
+        "Cinnamon Raisin Bagel",
+        "Everything Bagel",
+        "Multigrain Bagel",
+        "Strawberry Frosted with Halloween Sprinkles Donut",
+        "Vanilla Frosted with Halloween Sprinkles Donut",
+        "Chocolate Frosted with Halloween Sprinkles Donut",
+        "Spider Donut",
+        "Pumpkin Donut",
+        "Poe's Purple Donut",
+        "Raven's Flock Donut"
+      ]
+    }
+  ]
+  
