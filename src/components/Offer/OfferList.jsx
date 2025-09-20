@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import OfferCard from "./OfferCard";
 import offersData from "../../data/Offer.json";
+import { Link } from "react-router-dom";
 
 const OfferList = () => {
   return (
@@ -25,15 +26,18 @@ const OfferList = () => {
           ))}
         </div>
         <div className="flex justify-center mt-8 md:mt-12">
-          <motion.a
-            href="/menu"
-            className="bg-[#C81D6A] text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-[#a81a59] transition-colors text-sm md:text-lg"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            style={{ fontFamily: "Dunkin Sans Bold, sans-serif" }}
-          >
-            View All Menu
-          </motion.a>
+        <motion.div
+  whileHover={{ scale: 1.05 }}
+  whileTap={{ scale: 0.95 }}
+>
+  <Link
+    to="/menu"
+    className="bg-[#C81D6A] text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-[#a81a59] transition-colors text-sm md:text-lg"
+    style={{ fontFamily: "Dunkin Sans Bold, sans-serif" }}
+  >
+    View All Menu
+  </Link>
+</motion.div>
         </div>
       </div>
     </div>
